@@ -2,7 +2,7 @@ import * as React from 'react';
 
 const Avatar = () => {
   return (
-    <h1>Avatar</h1>
+    <h1>Avatar from Denis</h1>
   );
 };
 
